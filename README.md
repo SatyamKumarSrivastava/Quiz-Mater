@@ -83,6 +83,3 @@ This project helped in understanding and implementing:
 ## Author
 
 **Satyam Kumar Srivastava**
-
-B.Tech – Electronics and Communication Engineering
-LNCTE, Bhopal
