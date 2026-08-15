@@ -21,6 +21,10 @@ Quiz Master is an interactive web-based quiz application designed to provide an 
 * **CSS3** – Styling, responsiveness, and visual design
 * **JavaScript** – Quiz logic, question handling, score calculation, certificate generation, and user interactions
 
+## Live Demo
+
+[Play Quiz Master](https://satyamkumarsrivastava.github.io/Quiz-Mater/)
+
 ## How It Works
 
 1. Open the Quiz Master website.
