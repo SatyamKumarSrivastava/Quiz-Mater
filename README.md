@@ -1,4 +1,4 @@
-**Quiz Master**
+##**Quiz Master: An Interactive Quiz Website**
 
 Quiz Master is an interactive web-based quiz application developed using HTML, CSS, and JavaScript. It allows users to test their knowledge across different subjects and difficulty levels.
 
